@@ -1,0 +1,5 @@
+pandas
+faker
+psycopg2-binary
+python-docx
+# Add google-cloud-bigquery or snowflake-connector-python if using them

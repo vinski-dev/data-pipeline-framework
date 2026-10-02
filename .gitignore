@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Google Cloud Credentials (CRITICAL)
+gcp-key.json
+*.json
+
+# Data Files
+mock_source_data/
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
