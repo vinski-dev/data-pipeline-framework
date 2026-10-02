@@ -3,7 +3,6 @@ from google.cloud import bigquery
 import uuid
 import logging
 import os
-
 from google.cloud.exceptions import NotFound
 
 

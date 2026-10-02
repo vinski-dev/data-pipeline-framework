@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: analytics_lab
+    schema: public
+    tables:
+      - name: users_raw
